@@ -3,10 +3,10 @@ package main
 import (
 	"fmt"
 
-	"github.com/piquette/finance-go/chart"
-	"github.com/piquette/finance-go/datetime"
-	"github.com/piquette/finance-go/equity"
-	"github.com/piquette/finance-go/quote"
+	"github.com/XungungoMarkets/xgg-finance-go/chart"
+	"github.com/XungungoMarkets/xgg-finance-go/datetime"
+	"github.com/XungungoMarkets/xgg-finance-go/equity"
+	"github.com/XungungoMarkets/xgg-finance-go/quote"
 )
 
 // Prueba funcional para obtener información del ticker NVDA (NVIDIA)

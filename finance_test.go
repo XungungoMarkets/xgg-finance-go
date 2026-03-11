@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/piquette/finance-go/form"
+	"github.com/XungungoMarkets/xgg-finance-go/form"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -3,17 +3,17 @@ package main
 import (
 	"fmt"
 
-	"github.com/piquette/finance-go/chart"
-	"github.com/piquette/finance-go/crypto"
-	"github.com/piquette/finance-go/datetime"
-	"github.com/piquette/finance-go/equity"
-	"github.com/piquette/finance-go/etf"
-	"github.com/piquette/finance-go/forex"
-	"github.com/piquette/finance-go/future"
-	"github.com/piquette/finance-go/index"
-	"github.com/piquette/finance-go/mutualfund"
-	"github.com/piquette/finance-go/options"
-	"github.com/piquette/finance-go/quote"
+	"github.com/XungungoMarkets/xgg-finance-go/chart"
+	"github.com/XungungoMarkets/xgg-finance-go/crypto"
+	"github.com/XungungoMarkets/xgg-finance-go/datetime"
+	"github.com/XungungoMarkets/xgg-finance-go/equity"
+	"github.com/XungungoMarkets/xgg-finance-go/etf"
+	"github.com/XungungoMarkets/xgg-finance-go/forex"
+	"github.com/XungungoMarkets/xgg-finance-go/future"
+	"github.com/XungungoMarkets/xgg-finance-go/index"
+	"github.com/XungungoMarkets/xgg-finance-go/mutualfund"
+	"github.com/XungungoMarkets/xgg-finance-go/options"
+	"github.com/XungungoMarkets/xgg-finance-go/quote"
 )
 
 // This file lists several usage examples of this library
